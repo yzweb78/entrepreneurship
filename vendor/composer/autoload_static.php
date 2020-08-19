@@ -41,6 +41,7 @@ class ComposerStaticInit6928a5848cccdfa96e9d33ca1086087b
             'EasySwoole\\HttpClient\\Test\\' => 27,
             'EasySwoole\\HttpClient\\' => 22,
             'EasySwoole\\HttpAnnotation\\' => 26,
+            'EasySwoole\\HotReload\\' => 21,
             'EasySwoole\\EasySwoole\\' => 22,
             'EasySwoole\\Config\\Test\\' => 23,
             'EasySwoole\\Config\\' => 18,
@@ -135,6 +136,10 @@ class ComposerStaticInit6928a5848cccdfa96e9d33ca1086087b
         'EasySwoole\\HttpAnnotation\\' => 
         array (
             0 => __DIR__ . '/..' . '/easyswoole/http-annotation/src',
+        ),
+        'EasySwoole\\HotReload\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/easyswoole/hot-reload/src',
         ),
         'EasySwoole\\EasySwoole\\' => 
         array (

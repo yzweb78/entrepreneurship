@@ -19,6 +19,13 @@ class EasySwooleEvent implements Event
     public static function mainServerCreate(EventRegister $register)
     {
         // TODO: Implement mainServerCreate() method.
+        // 热加载
+        $hotReloadOptions = new \EasySwoole\HotReload\HotReloadOptions;
+        $hotReload = new \EasySwoole\HotReload\HotReload($hotReloadOptions);
+        $hotReloadOptions->setMonitorFolder([EASYSWOOLE_ROOT . '/App']);
+
+        $server = ServerManager::getInstance()->getSwooleServer();
+        $hotReload->attachToServer($server);
     }
 
     public static function onRequest(Request $request, Response $response): bool

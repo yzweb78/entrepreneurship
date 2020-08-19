@@ -3,7 +3,8 @@
         "easyswoole/easyswoole": "3.x",
         "easyswoole/http-client": "^1.4",
         "ext-json": "*",
-        "easyswoole/http-annotation": "^1.4"
+        "easyswoole/http-annotation": "^1.4",
+        "easyswoole/hot-reload": "^0.1.2"
     },
     "autoload": {
         "psr-4": {

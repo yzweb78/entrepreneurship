@@ -24,6 +24,7 @@ return array(
     'EasySwoole\\HttpClient\\Test\\' => array($vendorDir . '/easyswoole/http-client/tests'),
     'EasySwoole\\HttpClient\\' => array($vendorDir . '/easyswoole/http-client/src'),
     'EasySwoole\\HttpAnnotation\\' => array($vendorDir . '/easyswoole/http-annotation/src'),
+    'EasySwoole\\HotReload\\' => array($vendorDir . '/easyswoole/hot-reload/src'),
     'EasySwoole\\EasySwoole\\' => array($vendorDir . '/easyswoole/easyswoole/src'),
     'EasySwoole\\Config\\Test\\' => array($vendorDir . '/easyswoole/config/tests'),
     'EasySwoole\\Config\\' => array($vendorDir . '/easyswoole/config/src'),
