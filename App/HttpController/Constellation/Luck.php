@@ -11,7 +11,7 @@ use EasySwoole\Validate\Validate;
 /**
  * Class Luck
  * @package App\HttpController\Constellation
- * @deprecated 星座控制器
+ * @deprecated 星座运势控制器
  * @author Yang Zhao
  */
 class Luck extends Controller
