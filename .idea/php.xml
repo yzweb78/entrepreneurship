@@ -19,6 +19,17 @@
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
       <path value="$PROJECT_DIR$/vendor/easyswoole/http-client" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/mysqli" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/ddl" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/orm" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/pool" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/http-annotation" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/validate" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/annotation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/hot-reload" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
